@@ -1,5 +1,7 @@
 Personal project developed with React.js
 
+Check the live app on: https://cocktails-react-sebastien.netlify.app/
+
 Features:
 - Search for cocktails
 - Display cocktail information
